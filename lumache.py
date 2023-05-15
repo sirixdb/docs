@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+SirixDB - An evolutionary, (bi-)temporal, immutable database system.
 """
 
 __version__ = "0.1.0"
