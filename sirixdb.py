@@ -1,5 +1,5 @@
 """
-SirixDB - An evolutionary, (bi-)temporal, immutable database system.
+SirixDB - An evolutionary, (bi-)temporal, append-only database system.
 """
 
 __version__ = "0.1.0"
