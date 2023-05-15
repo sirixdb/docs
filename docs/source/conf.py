@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'SirixDB'
+copyright = '2023, SirixDB Contributors'
+author = 'SirixDB Contributors'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.10'
+version = '0.10.0'
 
 # -- General configuration
 
